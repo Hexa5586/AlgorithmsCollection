@@ -10,7 +10,7 @@
 #include <algorithm>
 
 namespace HoshiInori::Algorithms {
-    class TheSumOfThreeNumbersSolution : public ISolution {
+    class ThreeNumbersSumToZeroSolution : public ISolution {
     public:
 
         std::vector<std::vector<int>> TheSumOfThreeNumbers(std::vector<int> data) {
@@ -52,5 +52,5 @@ namespace HoshiInori::Algorithms {
         }
     };
 
-    REGISTER_SOLUTION(TheSumOfThreeNumbersSolution, "TheSumOfThreeNumbers");
+    REGISTER_SOLUTION(ThreeNumbersSumToZeroSolution, "ThreeNumbersSumToZero");
 };

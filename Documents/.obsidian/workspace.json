@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comprehensive/Sliding Window Maximum.md",
+                "file": "Hoshi-Inori's Algorithms Document Library.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sliding Window Maximum"
+              "title": "Hoshi-Inori's Algorithms Document Library"
             }
           }
         ]
@@ -185,8 +185,12 @@
   },
   "active": "cd894ebfc9e6c2f0",
   "lastOpenFiles": [
+    "Comprehensive/Three Numbers Sum to Zero.md",
     "Hoshi-Inori's Algorithms Document Library.md",
     "Comprehensive/Sliding Window Maximum.md",
+    "Internal",
+    "Comprehensive.md",
+    "Hoshi-Inori's.md",
     "Comprehensive",
     "Comprehensive",
     "Unclassified",
