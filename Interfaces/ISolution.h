@@ -8,6 +8,7 @@
 #include <map>
 #include <string>
 #include <memory>
+#include <vector>
 
 namespace HoshiInori::Algorithms {
     class ISolution {
@@ -25,6 +26,14 @@ namespace HoshiInori::Algorithms {
         }
         void registerSolution(const std::string& name, Creator creator) {
             storage[name] = creator;
+        }
+        std::vector<std::string> listSolutions() {
+            std::vector<std::string> keys;
+            keys.reserve(storage.size());
+            for (auto const& [key, value] : storage) {
+                keys.push_back(key);
+            }
+            return keys;
         }
         std::unique_ptr<ISolution> create(const std::string& name) {
             if (storage.find(name) == storage.end()) return nullptr;
