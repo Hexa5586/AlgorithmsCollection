@@ -14,16 +14,16 @@
 
 #### Comprehensive
 
-[滑动窗口最大值](</Comprehensive/Sliding Window Maximum.md>)
+[滑动窗口最大值](<Comprehensive/Sliding Window Maximum.md>)
 
-[三数之和为 0](</Comprehensive/Three Numbers Sum to Zero.md>)
+[三数之和为 0](<Comprehensive/Three Numbers Sum to Zero.md>)
 
 #### String
 
-[最长回文子串 - 中心扩散法](</String/Longest Palindrome.md>)
+[最长回文子串 - 中心扩散法](<String/Longest Palindrome.md>)
 
-[最长回文子串 - Manacher 算法](</String/Manacher's Algorithm.md>)
+[最长回文子串 - Manacher 算法](<String/Manacher's Algorithm.md>)
 
 #### Maths
 
-[多数元素 - Boyer-Moore 投票算法](</Maths/Majority Element.md>)
+[多数元素 - Boyer-Moore 投票算法](<Maths/Majority Element.md>)
