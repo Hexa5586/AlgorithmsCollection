@@ -1,8 +1,5 @@
-// Hoshi-Inori, 2026.1
+// Hoshi-Inori, 2026.01
 // Algorithms\SlidingWindowMaximum.cpp
-
-// Given an array and a sliding window with size windowLength.
-// Calculate the maximum value within this window as it is sliding.
 
 // Document: Documents/Comprehensive/Sliding Window Maximum.md
 

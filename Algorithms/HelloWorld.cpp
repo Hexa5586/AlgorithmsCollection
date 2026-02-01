@@ -1,6 +1,7 @@
-// Hoshi-Inori, 2026.1
+// Hoshi-Inori, 2026.01
 // Algorithms\HelloWorld.cpp
-// Testing algorithm.
+
+// Document: <none>
 
 #include "Interfaces/ISolution.h"
 #include <iostream>

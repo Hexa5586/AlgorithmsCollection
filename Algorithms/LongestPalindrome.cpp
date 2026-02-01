@@ -1,6 +1,7 @@
 // Hoshi-Inori, 2026.01
 // Algorithms\LongestPalindrome.cpp
-// <Description Here>
+
+// Document: Documents/Comprehensive/Longest Palindrome.md
 
 #include "Interfaces/ISolution.h"
 #include <iostream>
